@@ -23319,7 +23319,7 @@ var $author$project$Shared$footer = F2(
 														$mdgriffith$elm_ui$Element$px(20))
 													]),
 												{description: 'Regal Tech Support, LLC Logo', src: 'https://regaltechsupport.com/img/favicon.ico'}),
-												$mdgriffith$elm_ui$Element$text('Website made by Regal Tech Support')
+												$mdgriffith$elm_ui$Element$text('')
 											])),
 									url: 'https://regaltechsupport.com'
 								})
